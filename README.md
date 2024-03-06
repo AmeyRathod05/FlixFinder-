@@ -1,3 +1,8 @@
+
+![Screenshot 2024-03-06 154316](https://github.com/AmeyRathod05/FlixFinder-/assets/127238907/34fbd019-388d-4742-baee-5159aa9c31e9)
+![Screenshot 2024-03-06 154230](https://github.com/AmeyRathod05/FlixFinder-/assets/127238907/42c1cca2-7d01-413f-bb3d-bc2f369251ed)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
